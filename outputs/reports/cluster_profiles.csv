@@ -1,0 +1,4 @@
+cluster,recency,frequency,monetary,avg_order_value,spend_cv,category_entropy,n_categories,trend_score,avg_purchase_gap
+0,112.35,9.1,1193.92,89.95,0.38,0.66,2.31,57.88,42.49
+1,16.8,24.46,6942.96,284.83,0.28,1.41,4.44,1967.27,3.01
+2,788.65,1.12,55.48,49.65,0.16,0.02,1.03,-0.01,820.91

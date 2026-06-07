@@ -1,0 +1,4 @@
+Algorithm,N Clusters,Silhouette,Davies-Bouldin,Calinski-Harabasz,Noise Points
+K-Means,3,0.7538,0.5125,752.77,0
+Agglomerative (Ward),3,0.7776,0.3578,549.29,0
+DBSCAN,4,0.6093,0.6311,420.48,23
